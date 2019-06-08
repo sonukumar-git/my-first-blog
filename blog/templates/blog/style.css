@@ -1,0 +1,55 @@
+.dt {
+   
+font-family: 'Times New Roman', Times, serif;
+font-size:25px;
+font-weight: bold;
+
+
+}
+#tbl1{
+    border-collapse: collapse;
+}
+body{
+    background-color: blueviolet;
+}
+
+#edu{
+text-align: center;
+
+}
+#hd1{
+
+    background-color: bisque;
+    height: 100px;
+}
+#ft{
+    background-color:gray;
+        height: 100px;
+        text-align: center;
+    
+}
+#div1{
+    background-color: aliceblue;
+
+}
+#div2{
+    background-color:antiquewhite;}
+#div3
+{
+    background-color: beige;
+
+}
+#div4{
+    background-color: blueviolet;
+
+}
+#div5{
+    background-color: cornflowerblue;
+}
+#div6{
+    background-color: coral;
+
+}
+#div7{
+    background-color:darkcyan;
+}
